@@ -4,17 +4,17 @@
   "accpetPending": false,
   "developermode": false,
   "language": "en",
-  "notification": false,
-  "approval": false,
+  "notification": true,
+  "approval": true,
   "saveState": true,
   "BOTNAME": "nayan-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100071009500533",
+    ""
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100071009500533",
     ""
   ],
   "OWNER": ["100000959749712"], 
